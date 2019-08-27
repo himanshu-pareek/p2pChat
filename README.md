@@ -42,5 +42,8 @@ A peer-to peer (P2P) application is an application primitive, where there is no 
   </li>
 </ol>
 
+## Architecture Diagram
+<img src="https://github.com/himanshu746/p2pChat/blob/master/p2pchat_arch.png" alt="Artichture Diagram of P2P chat" title="Artichture Diagram of P2P chat" />
+
 
 
